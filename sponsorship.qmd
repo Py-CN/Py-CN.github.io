@@ -1,0 +1,48 @@
+---
+title: "Sponsorship"
+format: html
+---
+
+### Why Sponsoring?
+
+Besides the organisers, supporters and speakers, our sponsors are an ESSENTIAL part of keeping this going. They provide food and drinks, but more importantly, they provide the venue and cover travel for visiting speakers.
+
+Our experience shows that this form of sponsorship can be very effective to reach your target audience whether you are looking for developers to fill an open position or you would just like to introduce your organisation or product to developers.
+
+By supporting our community you enable us to provide a forum for discussion and exchange that does not come with an exclusive price tag, but is open for a broader group of participants that share a common interest.
+
+### What do you get?
+
+In return for your contribution, we offer you the following:  
+ - 5-minute presentation on stage at the beginning of the event.  
+ - Your organization would be mentioned on the event page with a logo and text and promoted to our community.  
+ - We will include you in 3 announcement emails that go out to members of PyCN.  
+ - The satisfaction of knowing you are contributing to the amazing developer community.  
+
+We accept 2 sponsors per event. You are welcome to bring flyers, stickers and other promo materials and put them on tables or chairs, banners only after consultation.  
+
+
+### Long-term sponsoring
+
+We also offer yearly sponsoring and promotion packages – all non-profit. Please [contact our organisers](mailto:admin@pycn.fyi) for details.
+
+### Free Conference Promotions
+
+We like to promote conferences that are relevant to our visitors. Having a discount code tailored for our meetup is even better. Offering a ticket or two to raffle during the meetup is a great addition!  
+
+We love to keep our audience up to date with current events. To avoid spamming our community, our team has decided the following:
+
+Since we can't attend all these conferences, it's hard for us to determine which ones are good. 
+
+1. We will ONLY accept conference promotion in exchange for free tickets if a well-known community member endorses the conference to a PyCN organizer.  
+2. We also promote free events in Romania that are relevant to our community.  
+
+With this step, we hope to act in the best interest of our community.
+
+#### Paid Conference Promotion
+
+We offer paid promotion for conferences following our standard sponsorship guidelines.
+
+### Organizer Team
+
+PyCN uses sponsoring money to pay for venue, free drinks and free food. **100% of the organizers work is free and unpaid.**

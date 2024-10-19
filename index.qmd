@@ -1,11 +1,38 @@
 ---
-title: "Py-CN.github.io"
+title: "PyCN"
+format: html
 ---
 
-This is a Quarto website.
+### About PyCN
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Cluj-Napoca has earned a reputation as a dynamic hub for technology and innovation, often dubbed the "Silicon Valley of Eastern Europe." With its thriving startup culture and continuous advancements in the tech sector, the city is making significant strides in Web and mobile application development. But beyond these strengths, Cluj-Napoca also boasts a growing and vibrant community of Python enthusiasts, data engineers, and data scientists.
 
-```{r}
-1 + 1
-```
+PyCN (Python Community of Cluj-Napoca) is at the heart of this movement, serving as a platform for Python developers of all skill levels to come together, learn, and share knowledge. This website provides an overview of our meetup activities, events, and the resources that help support the Python ecosystem here in Cluj-Napoca.
+
+We invite you to join us in building a strong, supportive, and innovative Python community. Whether you’re a curious beginner or an experienced developer, your presence and contribution can help shape the future of Python development in Cluj-Napoca.
+
+### Our Audience
+
+PyCN is a welcoming meetup community designed for anyone with an interest in Python, Machine Learning, Data Science, and AI — **regardless of experience level**. From complete beginners taking their first steps in programming to seasoned professionals seeking to expand their knowledge, we aim to provide a space where everyone can learn, grow, and connect.
+
+Our goal is to cover a wide range of topics to cater to the diverse interests of our members. From professional development tools and interacting with physical devices to innovative data analytics, personal projects, educational initiatives, and even creative coding, there’s something for everyone. We believe that coding is not just a technical skill but also a way to express creativity and have fun.
+
+### Become a Speaker
+
+Are you passionate about Python or have a topic you'd love to share with the community? We’re always looking for speakers to present at our PyCN events! Whether you want to showcase a project, share your insights, or inspire others with your experiences, we’d love to hear from you.
+
+Please submit your talk proposal using [this form](https://forms.gle/GLGzBzk6T1b4ZP6X8), and let’s make the next meetup even more engaging and informative. We’re committed to keeping our meetups open, inclusive, and community-driven, so don’t hesitate to [reach out](mailto:admin@pycn.fyi) with your ideas or suggest new topics and collaborative opportunities.
+
+#### When and Where
+
+- When: Our meetups take place monthly throughout the year, providing regular opportunities to learn, network, and collaborate.  
+- Where: We like to keep things fresh by rotating our meetup locations across Cluj-Napoca, so each event brings a new experience and a chance to explore different venues in the city.  
+
+### Stay Connected
+
+To stay up-to-date with all the latest from PyCN, including upcoming meetups, workshops, and events, follow us on [our Meetup page](https://www.meetup.com/pycn-fyi/).
+
+For any questions, suggestions, or if you'd like to get involved in organizing or sponsoring our events, feel free to reach out via email at [admin@pycn.fyi](mailto:admin@pycn.fyi). We’d love to hear from you!
+
+Thank you for being part of PyCN, and together, let’s continue to build a thriving Python community in Cluj-Napoca!
+

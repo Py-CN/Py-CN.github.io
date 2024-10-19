@@ -1,19 +1,40 @@
 project:
   type: website
-
 website:
-  title: "Py-CN.github.io"
+  title: "PyCN"
+  favicon: "assets/logo.png"
+  description: "PyCN is an inclusive community based in Cluj-Napoca for users and developers that are brought together by their love for Python, Machine Learning, Data Science, & AI knowledge sharing. We are gathering for events, workshops and social gatherings."
+  reader-mode: true
+  open-graph: true
   navbar:
+    logo: assets/logo.png
+    pinned: true
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: sponsorship.qmd
+        text: Sponsorship
+      - href: CoC.qmd
+        text: CoC
+  page-footer: 
+    background: dark
+    left: "&copy; PyCN"
+    center: "Made with ❤️ in Cluj-Napoca" 
+    right: 
+      - icon: github
+        href: https://github.com/py-CN/Py-CN.github.io        
+  cookie-consent: false
+title-block-banner: true
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo
+      dark: darkly
+    include-in-header: 
+      text: |
+            <!-- Umami Cloud Analytics -->
+            <script defer src="https://cloud.umami.is/script.js" data-website-id="e019cf90-24f4-46cc-b2e5-399343be858a"></script>
+            <!-- End of Umami Cloud Analytics -->
+    pagetitle: "{{< meta title >}}"
     css: styles.css
     toc: true
-
-
-

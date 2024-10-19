@@ -1,0 +1,79 @@
+---
+title: "Code of Conduct"
+format: html
+---
+
+We invite all those who participate in the **PyCN** community to help us create safe and positive experiences for everyone.
+
+### Purpose
+
+**PyCN** is dedicated to providing a harassment-free meetup experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or lack thereof.  
+This code of conduct outlines our expectations for all those who participate in our events, as well as the consequences for unacceptable behaviour.  
+
+- We do not tolerate harassment of meetup participants in any form.  
+- Sexual language and imagery is not appropriate for any meetup venue, including talks.  
+- We expect all community participants to abide by this Code of Conduct in all community venues—online and in-person—as well as in all one-on-one communications pertaining to community business.  
+
+**Meetup participants violating these rules may be sanctioned or expelled from the meetup without a refund at the discretion of the meetup organisers.**
+
+### Expected Behaviour
+
+The following behaviours are expected and requested of all community members:
+
+- Participate in an authentic and active way.
+- Exercise consideration and respect in your speech and actions.
+- Attempt collaboration before conflict.
+- Respect that people have differences in opinion and that there is seldom a right answer.
+- Ask about gender rather than assume, and if you get it wrong apologize and use the gender pronoun they prefer. Please keep in mind that continued misgendering is harassment!
+- Use inclusive language.
+- Refrain from demeaning, discriminatory, or harassing behaviour and speech.
+- Be mindful of your surroundings and of your fellow participants.
+- Please note that by attending our events, you are subject to being photographed or videotaped.
+- Alcohol may be present at our events but please do not feel obligated to drink.
+- Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+
+### Unacceptable Behaviour
+
+Unacceptable behaviours include, but are not limited to:
+
+- Violence, threats of violence or violent language directed against another person.
+- Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes, language or postings.
+- Wearing or displaying identifying signs of discrimination e.g. logos for racist organisations.
+- Posting or threatening to post other people’s personally identifying information (doxing).
+- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+- Photography or recording of other people without their explicit consent.
+- Physical contact without someone’s verbal consent before touching them.
+- Deliberate intimidation, stalking or following online or in person.
+- Sustained disruption of community events, including talks and presentations.
+- Advocating for, or encouraging, any of the above behaviour.  
+
+### Consequences of Unacceptable Behaviour
+
+Unacceptable behaviour from any community member, including sponsors and those with decision-making authority, will not be tolerated.  
+Anyone asked to stop unacceptable behaviour is expected to comply immediately.  
+If a community member engages in unacceptable behaviour, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).  
+Please remember that mistakes happen. You are not a bad person; simply reassess your behaviour and do better next time.
+
+### Reporting Guidelines
+
+If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify the community organisers as soon as possible. As an alternative, please feel free to send your concerns or any feedback to the PyCN awareness eam at [awareness@pycn.fyi](mailto:awareness@pycn.fyi).
+
+You can make a personal report by contacting any member of the organisers.  
+When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other community staff to ensure your report is managed properly.  
+Once safe, we’ll ask you to tell us about what happened. This can be upsetting, but we’ll handle it as respectfully as possible, and you can bring someone to support you. You won’t be asked to confront anyone and we won’t tell anyone who you are.  
+
+### Addressing Grievances
+
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify one of the community organizers with a concise description of your grievance.  
+Your grievance will be handled in accordance with our existing governing policies.  
+
+### Contact info
+
+PyCN awareness team: [awareness@pycn.fyi](mailto:awareness@pycn.fyi)  
+
+Thank you for helping make this a welcoming, friendly community for all.  
+
+### License and attribution
+
+This Code of Conduct is distributed under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).  
+This Code of Conduct was inspired by the Django Code of Conduct, the Geek Feminism Anti-Harassment Policy, cusy and PyBerlin Code of Conduct.
